@@ -10,7 +10,7 @@ Currently, I am pursuing a **Post-Graduation in Web Development** at Humber Coll
 2. **Design Tools**: Figma, Illustrator, Photoshop, Canva
 
 > This repo is available to view at:  
-> [https://github.com/hetul0012/markdown-portfolio](https://github.com/hetul0012/markdown-portfolio/index).
+> [https://github.com/hetul0012/markdown-portfolio](https://github.com/hetul0012/markdown-portfolio.git).
 
 [About me](index) | 
 [Employment](employment) | 
