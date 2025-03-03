@@ -9,9 +9,6 @@ Currently, I am pursuing a **Post-Graduation in Web Development** at Humber Coll
 1. **Web Development** (HTML, CSS, JavaScript, Sass, Wordpress)
 2. **Design Tools**: Figma, Illustrator, Photoshop, Canva
 
-> [!Warning]  
-> Ensure all images are placed in the `assets/` folder and referenced correctly for them to display on GitHub Pages. Also, use absolute links if necessary.
-
 > This repo is available to view at:  
 > [https://github.com/hetul0012/markdown-portfolio](https://github.com/hetul0012/markdown-portfolio/index).
 
